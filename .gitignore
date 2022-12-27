@@ -1,0 +1,8 @@
+# docs フォルダは要らない
+docs/
+#oscar/datasets フォルダは要らない
+oscar/datasets
+oscar/modeling
+oscar/transformers
+oscar/utils
+output/
